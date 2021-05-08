@@ -2,7 +2,7 @@
 module.exports = [
   {
     id: 1,
-    task: "Fix Sink"
+    task: "Arreglar fregadero"
   },
   {
     id: 2,
