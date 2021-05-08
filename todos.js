@@ -6,7 +6,7 @@ module.exports = [
   },
   {
     id: 2,
-    task: "Buy Groceries"
+    task: "Comprar manzanas"
   },
   {
     id: 3,
